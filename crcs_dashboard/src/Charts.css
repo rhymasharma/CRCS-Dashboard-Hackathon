@@ -1,0 +1,28 @@
+.stacked-barchart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+  }
+  
+  .stacked-barchart-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  
+  .states-piechart-container, .sectors-piechart-container {
+    margin: 30px auto 0px auto;
+    position: relative;
+    width: 500px;
+    height: 500px;
+  }
+
+  .year-histogram-chart-container {
+    margin: 50px auto;
+    width: 50%;
+    height: 500px;
+  }
